@@ -1,17 +1,1 @@
-[
-    {
-      "id": "Armory.NotificationAgent",
-      "description": "An example Echo notification service",
-      "provider": "https://github.com/danielpeach",
-      "releases": [
-        {
-          "version": "0.0.2",
-          "date": "2020-07-20T19:34:43.280175600Z",
-          "requires": "echo>=0.0.0",
-          "sha512sum": "d138834d9c5aa3459d006b223055d986fd5c4fcd9fa023966dd6c2a51246df4a037fb120cc29ebe4965ca0f38e93047d56d13c412e55e8ecec3f31ffe8cb7874",
-          "state": "RELEASE",
-          "url": "https://github.com/ExitoLab/spinnaker-ms-teams-notification-plugin/releases/download/v0.0.2/spinnaker-ms-teams-notification-plugin-v0.0.2.zip"
-        }
-      ]
-    }
-  ]
+[]
