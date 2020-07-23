@@ -5,6 +5,14 @@
       "provider": "https://github.com/ExitoLab",
       "releases": [
         {
+          "version": "0.0.13",
+          "date": "2020-07-23T15:48:47.240Z",
+          "requires": "echo>=0.0.0,deck>=0.0.0",
+          "sha512sum": "c9d25474d0770e9e7c9ccabaa4a8b1f7c3c77b3e8c1c1a621e23cd8e3f6962679f953bff6da1f853c034d375c80bb8fc268267244ec7c4ff1946f30a4f29cfd9",
+          "state": "RELEASE",
+          "url": "https://github.com/ExitoLab/spinnaker-ms-teams-notification-plugin/releases/download/v0.0.13/spinnaker-ms-teams-notification-plugin-v0.0.13.zip"
+        },
+        {
           "version": "0.0.12",
           "date": "2020-07-22T17:14:46.580Z",
           "requires": "echo>=0.0.0,deck>=0.0.0",
